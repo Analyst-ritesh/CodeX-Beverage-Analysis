@@ -1,10 +1,10 @@
 # CodeX-Beverage-Analysis
 
-#Introduction
+# Introduction
 
 In the quest to establish a strong foothold in the competitive Indian beverage market, CodeX conducted a comprehensive survey among 10,000 respondents across 10 cities. The survey aimed to unravel insights into consumer preferences, behaviors, and perceptions regarding energy drinks. This analysis transforms raw survey data into actionable insights that can guide CodeX's strategic decisions and elevate its market presence.
 
-#Key Findings
+# Key Findings
 
 Preferred Ingredient: Caffeine
 The survey underscores a clear consumer preference for caffeine as the primary ingredient in energy drinks. A remarkable majority of respondents indicated caffeine as their most preferred ingredient. This insight should guide CodeX's product development, focusing on optimizing the caffeine content to cater to this expectation.
@@ -32,6 +32,6 @@ Print Media: While print media has a slightly lower impact, it remains a viable 
 ![Dashboard](https://github.com/Analyst-ritesh/CodeX-Beverage-Analysis/assets/137258065/1288d111-82de-4ae1-ac9b-29a2a8c4b535)
 
 
-#Conclusion
+# Conclusion
 
 The CodeX Beverage Analysis Dashboard provides invaluable insights into consumer preferences and behaviors, allowing for a data-driven approach to marketing and business strategy. By aligning product development, brand enhancement, and marketing efforts with these insights, CodeX can establish a strong market presence in India's competitive beverage landscape and build a loyal consumer base.
